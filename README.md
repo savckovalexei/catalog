@@ -25,7 +25,7 @@ php artisan key:generate
 php artisan migrate:fresh --seed
 ```
 
-#Запуск сервера
+#  Запуск сервера
 
 ```bash
 php artisan serve
