@@ -11,7 +11,7 @@ cd catalog
 ```bash
 composer install
 ```
-#Настройка окружения
+#  Настройка окружения
 
 ```bash
 cp .env.example .env
